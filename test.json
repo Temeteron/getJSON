@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "Trikoupi 90-96, Volos 382 21, Greece" ],
+   "origin_addresses" : [ "Dimitriados 119-123, Volos 383 33, Greece" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1.3 mi",
+                  "value" : 2027
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 399
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
